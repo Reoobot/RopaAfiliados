@@ -7,10 +7,10 @@
         "title": "Equipo Jesús | Christian Jesus Camiseta",
         "description": "Color solido: 100% Algodon; Gris: 90% Algodon, 10% Poliester; otros colores: 50% Algodon, 50% Poliester.",
         "images": [
-          "/ropa.jpeg",
-          "/ropa1.jpeg",
-          "/ropa2.jpeg",
-          "/ropa3.jpeg"
+          "ropa.jpeg",
+          "ropa1.jpeg",
+          "ropa2.jpeg",
+          "ropa3.jpeg"
         ],
         "price_link": "https://www.amazon.com/dp/exampleISBN1"
       },
@@ -19,10 +19,10 @@
         "title": "Mi Esperanza Esta En Jesús Camiseta",
         "description": "Mi esperanza está en Jesus. Regalo perfecto para todos los amantes de Jesús. Consigue el tuyo hoy hasta agotar existencias. Color solido: 100% Algodon; Gris: 90% Algodon, 10% Poliester; otros colores: 50% Algodon, 50% Poliester",
         "images": [
-          "/ropa4.jpeg",
-          "/ropa5.jpeg",
-          "/ropa6.jpeg",
-          "/ropa7.jpeg"
+          "ropa4.jpeg",
+          "ropa5.jpeg",
+          "ropa6.jpeg",
+          "ropa7.jpeg"
         ],
         "price_link": "https://www.amazon.com/dp/exampleISBN2"
       },
@@ -31,10 +31,10 @@
         "title": "Sudadera con capucha para mujer, diseño de Jesús cristiano The Way The Way The Truth and The Life, estilo casual, a la moda, suéter de Dios para adolescentes",
         "description": "Sudadera con capucha casual Love Like Jesus. Material: algodón y poliéster, estos materiales son gruesos y cómodos, con capucha. Las sudaderas con capucha te mantienen caliente en otoño e invierno. Sudadera con capucha gráfica de amor como Jesús con texto en inglés, Jesus the way the truth and the life Jesus Loves You So Much, con capucha con letras, There Is Purpose In The Waiting, sudaderas con capucha con texto en inglés «Love like jesus», sudaderas con capucha casual God is good all the time.",
         "images": [
-         "/ropa12.jpg",
-          "/ropa13.jpg",
-          "/ropa14.jpg",
-          "/ropa15.jpg"
+         "ropa12.jpg",
+          "ropa13.jpg",
+          "ropa14.jpg",
+          "ropa15.jpg"
         ],
         "price_link": "https://www.amazon.com/dp/exampleISBN3"
       }
